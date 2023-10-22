@@ -1,2 +1,33 @@
-# CS2-Cheat-ProjectXOX
-CS2 Cheat ProjectXOX-Spoof+SkinChanger+More! CS2 Cheat csgo csgo cheat counter strike windows internal external cheat cs2 cheat counter strike 2 cheat counter strike counter strike 2 skinchanger counter strike 2 api counter strike 2 spoofer counter strike 2 esp counter strike 2 aimbot cs2 undetected 
+### New working cheat for CS2.
+
+![img](https://i.imgur.com/Qyxfc0Y.jpg)
+
+## Features
+
+###
+ - F1 - Enemy glow ESP (Wallhack)
+
+ - F2 - Bunnyhop (It is not perfect and it is normal, it is to avoid the ban)
+
+ - bhop_key.txt - Toggle to use bhop
+
+ - F3 - Activate the triggerbot function
+
+ - trigger_key.txt - Toggle to use trigger bot
+
+ - F6 - Aimbot
+
+ - aimbot_key.txt - Toggle to use aimbot
+
+ - F7 - No flashbang
+
+ - F8 - Radar hack
+
+ - END - Panic mode (quits and disables all cheat functions)
+
+## 🌟〢Changelogs
+
+Version 1.6 | 22/10/2023
++ Improved compability
++ Added many new features
++ Bugfixes
